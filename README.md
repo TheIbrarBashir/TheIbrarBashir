@@ -1,8 +1,31 @@
-<p align="left"><b>Welcome to my GitHub Profile!</b><br><br>👋 Hey there! I'm Ibrar, a passionate Flutter developer with over 4 years of hands-on experience in crafting elegant and functional mobile applications. I specialize in the Flutter/Dart ecosystem, bringing your ideas to life with a seamless and delightful user experience.<br><br>🚀 <b>My Expertise:</b><br><br>⭐️ Flutter & Dart:I thrive in building feature-rich, cross-platform applications that provide a consistent experience on both Android and iOS.<br><br>⭐️ Android & Java: My deep understanding of Android development empowers me to create robust and performance-driven apps.<br><br>⭐️ iOS & Swift: I excel in creating stunning and intuitive iOS applications that adhere to the highest design standards.<br><br>⭐️ C#: I possess additional knowledge in C#, which allows me to diversify my development capabilities.<br><br>⭐️ Web Technologies: My familiarity with HTML and CSS gives me a holistic perspective on web technologies, enhancing my ability to create well-rounded solutions.<br><br><b>🤝 Let's Collaborate:</b><br><br>I'm open to exciting collaborations. Whether it's mobile app development, cross-platform solutions, or enhancing existing projects, I'm here to contribute.<br><br><strong>Let's innovate together! 🚀
+<p align="left"><b>Welcome to my GitHub Profile!</b><br><br>👋 Hey there! I'm Ibrar, a passionate Flutter developer with over 4 years of hands-on experience in crafting elegant and functional mobile applications. I specialize in the Flutter/Dart ecosystem, bringing your ideas to life with a seamless and delightful user experience.<br><br>🚀 <b>My Expertise:</b><br><br>⭐️ Flutter & Dart:I thrive in building feature-rich, cross-platform applications that provide a consistent experience on both Android and iOS.<br><br>⭐️ Android & Java: My deep understanding of Android development empowers me to create robust and performance-driven apps.<br><br>⭐️ iOS & Swift: I excel in creating stunning and intuitive iOS applications that adhere to the highest design standards.<br><br>⭐️ C#: I possess additional knowledge in C#, which allows me to diversify my development capabilities.<br><br>⭐️ Web Technologies: My familiarity with HTML and CSS gives me a holistic perspective on web technologies, enhancing my ability to create well-rounded solutions.<br><br>
+
+## 📂 Portfolio
+
+Below are some of the projects I've worked on:
+
+- **The Dividend Tracker**  
+  - [iOS](https://apps.apple.com/pk/app/the-dividend-tracker/id6443490767)  
+  - [Android](https://play.google.com/store/apps/details?id=com.thedividendtracker.app&pcampaignid=web_share)  
+
+- **Omniya**  
+  - [iOS (Collection System)](https://apps.apple.com/pk/app/omniya-collection-system/id1673761983) (Flutter only Available for iOS)  
+  - [iOS (Driver)](https://apps.apple.com/us/app/omniya-driver/id6462425687) (Flutter only Available for iOS)  
+
+- **BeautyFully**  
+  - [iOS](https://apps.apple.com/pk/app/beautyfully/id1672034258)  
+
+- **Look4city**  
+  - [iOS](https://apps.apple.com/pk/app/look4city/id1662134656)  
+  - [Android](https://play.google.com/store/apps/details?id=com.look4city.app.look4city&pcampaignid=web_share)  
+
+- **Trn**  
+  - [iOS](https://apps.apple.com/pk/app/trn-app/id6443707193)  
+
+<b>🤝 Let's Collaborate:</b><br><br>I'm open to exciting collaborations. Whether it's mobile app development, cross-platform solutions, or enhancing existing projects, I'm here to contribute.<br><br><strong>Let's innovate together! 🚀
 </strong></p>
 
 ###
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
@@ -35,7 +58,6 @@
 </div>
 
 ###
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TheIbrarBashir&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
