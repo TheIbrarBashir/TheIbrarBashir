@@ -1,6 +1,4 @@
-<p align="left"><b>Welcome to my GitHub Profile!</b><br><br>👋 Hey there! I'm Ibrar, a passionate Flutter developer with over 4 years of hands-on experience in crafting elegant and functional mobile applications. I specialize in the Flutter/Dart ecosystem, bringing your ideas to life with a seamless and delightful user experience.<br><br>🚀 <b>My Expertise:</b><br><br>⭐️ Flutter & Dart:I thrive in building feature-rich, cross-platform applications that provide a consistent experience on both Android and iOS.<br><br>⭐️ Android & Java: My deep understanding of Android development empowers me to create robust and performance-driven apps.<br><br>⭐️ iOS & Swift: I excel in creating stunning and intuitive iOS applications that adhere to the highest design standards.<br><br>⭐️ C#: I possess additional knowledge in C#, which allows me to diversify my development capabilities.<br><br>⭐️ Web Technologies: My familiarity with HTML and CSS gives me a holistic perspective on web technologies, enhancing my ability to create well-rounded solutions.<br><br>
-
-## 📂 Portfolio
+<p align="left"><b>Welcome to my GitHub Profile!</b><br><br>
 
 Below are some of the projects I've worked on:
 
