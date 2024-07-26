@@ -6,6 +6,15 @@ Below are some of the projects I've worked on:
   - [iOS](https://apps.apple.com/pk/app/the-dividend-tracker/id6443490767)  
   - [Android](https://play.google.com/store/apps/details?id=com.thedividendtracker.app&pcampaignid=web_share)  
 
+- **EurekaJo**  
+  - [iOS](https://apps.apple.com/jo/app/eurekajo-properties-in-jordan/id1617968807)  
+  - [Android](https://play.google.com/store/apps/details?id=com.eurekajo.mobile&hl=en&gl=US)  
+
+- **Yapp Sailing Course**  
+  - [iOS](https://apps.apple.com/pk/app/yapp-sailing-course/id1576346097)  
+  - [Android](https://play.google.com/store/apps/details?id=com.yacht.yapp&hl=en&gl=US)  
+
+
 - **Omniya**  
   - [iOS (Collection System)](https://apps.apple.com/pk/app/omniya-collection-system/id1673761983) (Flutter only Available for iOS)  
   - [iOS (Driver)](https://apps.apple.com/us/app/omniya-driver/id6462425687) (Flutter only Available for iOS)  
