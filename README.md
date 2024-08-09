@@ -1,38 +1,5 @@
 <p align="left"><b>Welcome to my GitHub Profile!</b><br><br>
 
-Below are some of the projects I've worked on:
-
-- **The Dividend Tracker**  
-  - [iOS](https://apps.apple.com/pk/app/the-dividend-tracker/id6443490767)  
-  - [Android](https://play.google.com/store/apps/details?id=com.thedividendtracker.app&pcampaignid=web_share)  
-
-- **EurekaJo**  
-  - [iOS](https://apps.apple.com/jo/app/eurekajo-properties-in-jordan/id1617968807)  
-  - [Android](https://play.google.com/store/apps/details?id=com.eurekajo.mobile&hl=en&gl=US)  
-
-- **Yapp Sailing Course**  
-  - [iOS](https://apps.apple.com/pk/app/yapp-sailing-course/id1576346097)  
-  - [Android](https://play.google.com/store/apps/details?id=com.yacht.yapp&hl=en&gl=US)  
-
-
-- **Omniya**  
-  - [iOS (Collection System)](https://apps.apple.com/pk/app/omniya-collection-system/id1673761983) (Flutter only Available for iOS)  
-  - [iOS (Driver)](https://apps.apple.com/us/app/omniya-driver/id6462425687) (Flutter only Available for iOS)  
-
-- **BeautyFully**  
-  - [iOS](https://apps.apple.com/pk/app/beautyfully/id1672034258)  
-
-- **Look4city**  
-  - [iOS](https://apps.apple.com/pk/app/look4city/id1662134656)  
-  - [Android](https://play.google.com/store/apps/details?id=com.look4city.app.look4city&pcampaignid=web_share)  
-
-- **Trn**  
-  - [iOS](https://apps.apple.com/pk/app/trn-app/id6443707193)  
-
-<b>🤝 Let's Collaborate:</b><br><br>I'm open to exciting collaborations. Whether it's mobile app development, cross-platform solutions, or enhancing existing projects, I'm here to contribute.<br><br><strong>Let's innovate together! 🚀
-</strong></p>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
