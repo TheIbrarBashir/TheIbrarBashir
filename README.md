@@ -1,12 +1,14 @@
 ## 🚀 Hi, I'm Ibrar Bashir! 👋  
 
-I'm a **passionate Mobile App Developer** with expertise in **Flutter, Android (Kotlin/Java), iOS (Swift), and Firebase**. I love crafting **cross-platform solutions** and optimizing user experiences. Whether it's **building from scratch** or **enhancing existing projects**, I thrive on solving complex problems with elegant solutions.  
+🚀 Passionate Mobile App Developer with a knack for building sleek, high-performance apps. Skilled in Flutter, Android (Kotlin/Java), iOS (Swift), and Firebase, I love bringing ideas to life with intuitive, cross-platform solutions. Whether it's crafting an app from the ground up or refining an existing project, I enjoy tackling challenges and creating seamless user experiences. Let's build something amazing!
+
+
 
 ### 🔥 Skills & Expertise:
 - **Mobile Development:** Flutter, Android (Kotlin/Java), iOS (Swift)  
 - **Backend & Cloud:** Firebase, REST APIs, GraphQL  
-- **Other Technologies:** Dart, C#, HTML, CSS  
-- **Tools & Platforms:** Xcode, Android Studio, Git, CI/CD  
+- **Other Technologies:** Dart, C#, HTML, CSS,Swift  
+- **Tools & Platforms:** Xcode, Android Studio, Visual Studio Git, CI/CD  
 
 ---  
 
@@ -14,38 +16,57 @@ I'm a **passionate Mobile App Developer** with expertise in **Flutter, Android (
 
 Here are some of the projects I've worked on, along with key details:
 
+### **EurekaJo** 🏡
+
+- **Category:**   Realestate 
+- **Downloads:**  100K+ (Play Store), 80K+ (App Store)  
+- **Tech Stack:** Dart, Flutter, Firebase,Google Maps API, FCM, Push Notifications  
+- **Platforms:**  [iOS](https://apps.apple.com/jo/app/eurekajo-properties-in-jordan/id1617968807) | [Android](https://play.google.com/store/apps/details?id=com.eurekajo.mobile&hl=en&gl=US)  
+
+
 ### **The Dividend Tracker** 📊
-- **Downloads:** 100K+ (Play Store), 10K+ (App Store)  
-- **Tech Stack:** Flutter, Firebase, REST APIs, Cloud Firestore  
+- **Category:**  Finance 
+- **Downloads:** 10K+ (Play Store), 30K+ (App Store)  
+- **Tech Stack:** Flutter, Firebase, REST APIs, Cloud Firestore, Plaid, Push Notifications  
 - **Platforms:** [iOS](https://apps.apple.com/pk/app/the-dividend-tracker/id6443490767) | [Android](https://play.google.com/store/apps/details?id=com.thedividendtracker.app&pcampaignid=web_share)  
 
-### **EurekaJo** 🏡
-- **Downloads:** 50K+ (Play Store), 5K+ (App Store)  
-- **Tech Stack:** Flutter, Firebase, Google Maps API, Cloud Messaging  
-- **Platforms:** [iOS](https://apps.apple.com/jo/app/eurekajo-properties-in-jordan/id1617968807) | [Android](https://play.google.com/store/apps/details?id=com.eurekajo.mobile&hl=en&gl=US)  
 
 ### **Yapp Sailing Course** ⛵
-- **Downloads:** 20K+ (Play Store), 3K+ (App Store)  
-- **Tech Stack:** Flutter, Firebase, Payment Integration, Real-time Database  
+- **Category:**   Education 
+- **Tech Stack:** Flutter, Firebase, Payment Integration, Real-time Database, In-App Purchase  
 - **Platforms:** [iOS](https://apps.apple.com/pk/app/yapp-sailing-course/id1576346097) | [Android](https://play.google.com/store/apps/details?id=com.yacht.yapp&hl=en&gl=US)  
 
 ### **Omniya** ♻️
-- **Tech Stack:** Flutter, Firebase, Google Cloud Functions  
+- **Category:**   Social 
+- **Tech Stack:** Flutter, Firebase, Google Cloud Functions, FCM, Push Notifcations  
 - **Platforms:** [iOS Collection System](https://apps.apple.com/pk/app/omniya-collection-system/id1673761983) | [iOS Driver](https://apps.apple.com/us/app/omniya-driver/id6462425687)  
 
 ### **BeautyFully** 💄
-- **Tech Stack:** Flutter, Firebase, Stripe API, Cloud Storage  
+- **Category:**   Shopping
+- **Tech Stack:** Flutter, Firebase, Stripe API, Cloud Storage, Payment Gate Way Integrations, Push Notifications  
 - **Platforms:** [iOS](https://apps.apple.com/pk/app/beautyfully/id1672034258)  
 
 ### **Look4city** 🌆
-- **Downloads:** 70K+ (Play Store), 8K+ (App Store)  
+- **Category:**   Realestate 
 - **Tech Stack:** Flutter, Firebase, Google Maps API, Push Notifications  
 - **Platforms:** [iOS](https://apps.apple.com/pk/app/look4city/id1662134656) | [Android](https://play.google.com/store/apps/details?id=com.look4city.app.look4city&pcampaignid=web_share)  
 
 ### **Trn** 🚆
-- **Downloads:** 30K+ (Play Store), 4K+ (App Store)  
+- **Category:**   Education 
 - **Tech Stack:** Flutter, Firebase, GeoLocation Services, Background Processing  
 - **Platforms:** [iOS](https://apps.apple.com/pk/app/trn-app/id6443707193)  
+
+
+### **Cabbie.today** 🚆
+- **Category:**   Travel, Ride Booking 
+- **Tech Stack:** Flutter, Firebase, GeoLocation Services, Google Maps, Real Time Communication, MQTT, Chat Service, Background Processing  
+- **Platforms:** [iOS] https://apps.apple.com/pk/app/cabbie-today/id6498719765
+
+### **Cabbie.today Driver** 🚆
+- **Category:**   Travel, Ride Booking 
+- **Tech Stack:** Flutter, Firebase, GeoLocation Services, Google Maps, Real Time Communication, MQTT, Chat Service, Background Processing  
+- **Platforms:** [iOS] https://apps.apple.com/pk/app/cabbie-today-driver/id6498791467
+
 
 ---  
 
