@@ -60,12 +60,12 @@ Here are some of the projects I've worked on, along with key details:
 ### **Cabbie.today** 🚕
 - **Category:**   Travel, Ride Booking 
 - **Tech Stack:** Flutter, Firebase, GeoLocation Services, Google Maps, Real Time Communication, MQTT, Chat Service, Background Processing  
-- **Platforms:** [iOS] https://apps.apple.com/pk/app/cabbie-today/id6498719765
+- **Platforms:** [iOS](https://apps.apple.com/pk/app/cabbie-today/id6498719765)
 
 ### **Cabbie.today Driver** 🚕
 - **Category:**   Travel, Ride Booking 
 - **Tech Stack:** Flutter, Firebase, GeoLocation Services, Google Maps, Real Time Communication, MQTT, Chat Service, Background Processing  
-- **Platforms:** [iOS] https://apps.apple.com/pk/app/cabbie-today-driver/id6498791467
+- **Platforms:** [iOS](https://apps.apple.com/pk/app/cabbie-today-driver/id6498791467)
 
 
 ---  
