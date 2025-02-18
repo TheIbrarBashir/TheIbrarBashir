@@ -6,9 +6,9 @@
 
 ### 🔥 Skills & Expertise:
 - **Mobile Development:** Flutter, Android (Kotlin/Java), iOS (Swift)  
-- **Backend & Cloud:** Firebase, REST APIs, GraphQL  
-- **Other Technologies:** Dart, C#, HTML, CSS,Swift  
-- **Tools & Platforms:** Xcode, Android Studio, Visual Studio Git, CI/CD  
+- **Backend & Cloud:**    Firebase, REST APIs, GraphQL, Maps  
+- **Other Technologies:** Dart, C#, HTML, CSS  
+- **Tools & Platforms:**  Xcode, Android Studio, Visual Studio Git, CI/CD  
 
 ---  
 
@@ -57,12 +57,12 @@ Here are some of the projects I've worked on, along with key details:
 - **Platforms:** [iOS](https://apps.apple.com/pk/app/trn-app/id6443707193)  
 
 
-### **Cabbie.today** 🚆
+### **Cabbie.today** 🚕
 - **Category:**   Travel, Ride Booking 
 - **Tech Stack:** Flutter, Firebase, GeoLocation Services, Google Maps, Real Time Communication, MQTT, Chat Service, Background Processing  
 - **Platforms:** [iOS] https://apps.apple.com/pk/app/cabbie-today/id6498719765
 
-### **Cabbie.today Driver** 🚆
+### **Cabbie.today Driver** 🚕
 - **Category:**   Travel, Ride Booking 
 - **Tech Stack:** Flutter, Firebase, GeoLocation Services, Google Maps, Real Time Communication, MQTT, Chat Service, Background Processing  
 - **Platforms:** [iOS] https://apps.apple.com/pk/app/cabbie-today-driver/id6498791467
