@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1400&color=7C3AED&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Flutter+%C2%B7+iOS+(Swift)+%C2%B7+Android;AI+%2F+ML+%E2%80%94+On-device+%26+Cloud+LLMs;12%2B+Live+Apps+%C2%B7+100K%2B+Real+Users;Building+Intelligent+Mobile+Experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1400&color=7C3AED&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Flutter+%C2%B7+iOS+(Swift)+%C2%B7+Android+(Kotlin);AI+%2F+ML+%E2%80%94+On-device+%26+Cloud+LLMs;12%2B+Live+Apps+%C2%B7+100K%2B+Real+Users;Building+Intelligent+Mobile+Experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -161,8 +161,6 @@ Pure native Swift social app with real-time geo-fencing, location-based user dis
 </details>
 
 ---
-
-## 📊 Stats
 
 <div align="center">
 
