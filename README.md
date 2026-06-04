@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Ibrar%20Bashir&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Mobile%20App%20%26%20AI%20Engineer&descAlignY=60&descColor=a0aec0&descSize=19" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1400&color=7C3AED&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Flutter+%C2%B7+iOS+(Swift)+%C2%B7+Android;AI+%2F+ML+%E2%80%94+On-device+%26+Cloud+LLMs;12%2B+Live+Apps+%C2%B7+100K%2B+Real+Users;Building+Intelligent+Mobile+Experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
 
