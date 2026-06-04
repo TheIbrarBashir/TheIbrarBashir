@@ -1,156 +1,198 @@
-## Hi, I'm Ibrar Bashir! 👋  
+<div align="center">
 
- **Senior Mobile App & AI Engineer** passionate about building **scalable, high-performance mobile applications** and **AI-powered user experiences**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Ibrar%20Bashir&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Mobile%20App%20%26%20AI%20Engineer&descAlignY=60&descColor=a0aec0&descSize=19" width="100%"/>
 
-I specialize in **Flutter**, **native iOS & Android development**, and **AI/ML engineering**, allowing me to deliver apps that are not only visually polished but also intelligent, secure, and production-ready. I have strong experience **writing Flutter packages**, extending Flutter using **native platform resources**, and integrating modern **LLM platforms like OpenAI, Gemini, and Claude**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1400&color=7C3AED&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Flutter+%C2%B7+iOS+(Swift)+%C2%B7+Android;AI+%2F+ML+%E2%80%94+On-device+%26+Cloud+LLMs;12%2B+Live+Apps+%C2%B7+100K%2B+Real+Users;Building+Intelligent+Mobile+Experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![](https://img.shields.io/badge/Apps%20Shipped-12+-7C3AED?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Downloads-100K+-7C3AED?style=flat-square)
+![](https://img.shields.io/badge/Flutter%20%7C%20iOS%20%7C%20Android%20%7C%20AI%2FML-Full%20Stack%20Mobile-7C3AED?style=flat-square)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theibrarbashir)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ibrar-bashir)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Theibrarbashir@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=TheIbrarBashir&style=for-the-badge&color=7C3AED&label=VISITORS)](https://github.com/TheIbrarBashir)
+
+</div>
+
+---
+
+## 🧑‍💻 Who I Am
+
+I build **Flutter, iOS, and Android** apps that ship to hundreds of thousands of users — clean architecture, production-grade, App Store ready. On the AI side, I integrate **LLMs (OpenAI · Gemini · Claude)**, run **on-device inference** with Core ML and TFLite, and bring ML from research into real mobile products.
+
+- 📦 Author of custom **Flutter packages & plugins** with native iOS/Android bridges
+- 🎓 Lecturer @ **Islamia University of Bahawalpur** — Machine Learning & Dart
+- 🔬 AI research: Urdu sign language recognition · BSN/WBAN anomaly detection
+- 🌍 Independent contractor serving clients across Europe, the Middle East & the Americas
 
 ---
 
-### Skills & Expertise:
+## 🛠️ Stack
 
-#### Mobile Development
-- Flutter (Clean Architecture, production-scale apps)
-- Native iOS (Swift, SwiftUI)
-- Native Android (Kotlin, Java)
-- Custom **Flutter packages & plugins**
-- Platform Channels (Flutter ↔ Native)
-- Performance optimization & App Store / Play Store releases
+**📱 Mobile**
 
-#### AI / Machine Learning
-- Python ML Stack: Pandas, NumPy, Matplotlib
-- Deep Learning fundamentals & model training
-- PyTorch, TensorFlow, TensorFlow Lite
-- Core ML (on-device iOS inference)
-- Model optimization for mobile (quantization, performance tuning)
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java,androidstudio,xcode" />
 
-####  AI API Integrations
-- OpenAI API (Chat, Vision, Embeddings)
-- Google Gemini API
-- Anthropic Claude API
-- Secure API handling & real-time streaming UI
+**🤖 AI / Machine Learning**
 
-#### Backend & Cloud
-- Firebase, Supabase (Auth, Firestore, Realtime DB, Functions)
-- REST APIs, GraphQL, Maps
-- Push Notifications (FCM, APNs)
-- CI/CD pipelines
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+&nbsp;
+![CoreML](https://img.shields.io/badge/Core_ML-000?style=flat-square&logo=apple&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
----  
+**☁️ Backend & Cloud**
 
-## Projects Showcase
+<img src="https://skillicons.dev/icons?i=firebase,supabase,gcp,azure,fastapi,postgres,mongodb,sqlite" />
 
-### **EurekaJo** 🏡
-- **Category:** Real Estate  
-- **Downloads:** 100K+ (Play Store), 80K+ (App Store)  
-- **Tech Stack:** Flutter, Firebase, Google Maps API, FCM, Push Notifications  
-- **Platforms:**  
-  - [iOS](https://apps.apple.com/jo/app/eurekajo-properties-in-jordan/id1617968807)  
-  - [Android](https://play.google.com/store/apps/details?id=com.eurekajo.mobile&hl=en&gl=US)
+**⚙️ DevOps & Tools**
 
-### **The Dividend Tracker** 
-- **Category:** Finance  
-- **Downloads:** 10K+ (Play Store), 30K+ (App Store)  
-- **Tech Stack:** Flutter, Firebase, REST APIs, Cloud Firestore, Plaid, Push Notifications  
-- **Platforms:**  
-  - [iOS](https://apps.apple.com/pk/app/the-dividend-tracker/id6443490767)  
-  - [Android](https://play.google.com/store/apps/details?id=com.thedividendtracker.app&pcampaignid=web_share)
-
-### **Yapp Sailing Course** 
-- **Category:** Education  
-- **Tech Stack:** Flutter, Firebase, In-App Purchases, Payments, Realtime Database  
-- **Platforms:**  
-  - [iOS](https://apps.apple.com/pk/app/yapp-sailing-course/id1576346097)  
-  - [Android](https://play.google.com/store/apps/details?id=com.yacht.yapp&hl=en&gl=US)
-
-### **Omniya** 
-- **Category:** Social  
-- **Tech Stack:** Flutter, Firebase, Google Cloud Functions, FCM, Push Notifications  
-- **Platforms:**  
-  - [iOS Collection System](https://apps.apple.com/pk/app/omniya-collection-system/id1673761983)  
-  - [iOS Driver](https://apps.apple.com/us/app/omniya-driver/id6462425687)
-
-### **BeautyFully** 
-- **Category:** Shopping  
-- **Tech Stack:** Flutter, Firebase, Stripe API, Cloud Storage, Payment Integrations, Push Notifications  
-- **Platform:**  
-  - [iOS](https://apps.apple.com/pk/app/beautyfully/id1672034258)
-
-### **Look4city** 
-- **Category:** Real Estate  
-- **Tech Stack:** Flutter, Firebase, Google Maps API, Push Notifications  
-- **Platforms:**  
-  - [iOS](https://apps.apple.com/pk/app/look4city/id1662134656)  
-  - [Android](https://play.google.com/store/apps/details?id=com.look4city.app.look4city&pcampaignid=web_share)
-
-### **Trn** 
-- **Category:** Education  
-- **Tech Stack:** Flutter, Firebase, Geolocation Services, Background Processing  
-- **Platform:**  
-  - [iOS](https://apps.apple.com/pk/app/trn-app/id6443707193)
-
-### **Cabbie.today** 
-- **Category:** Travel, Ride Booking  
-- **Tech Stack:** Flutter, Firebase, Google Maps, MQTT, Real-time Communication, Chat, Background Processing  
-- **Platform:**  
-  - [iOS](https://apps.apple.com/pk/app/cabbie-today/id6498719765)
-
-### **Cabbie.today Driver** 
-- **Category:** Travel, Ride Booking  
-- **Tech Stack:** Flutter, Firebase, Google Maps, MQTT, Real-time Communication, Chat, Background Processing  
-- **Platform:**  
-  - [iOS](https://apps.apple.com/pk/app/cabbie-today-driver/id6498791467)
-
-### **Halo Beba – O Dojenju** 
-- **Category:** Medical  
-- **Tech Stack:** Flutter, HTML, CSS 
-- **Platform:**  
-  - [iOS](https://apps.apple.com/pk/app/halo-beba-o-dojenju/id6740992898)
-
-### **Flasterko** 
-- **Category:** Medical  
-- **Tech Stack:** Flutter, HTML, CSS 
-- **Platform:**  
-  - [iOS](https://apps.apple.com/pk/app/flasterko/id6740990691)
- 
-### **Hobnob – Go Mingle** 
-- **Category:** Social Media  
-- **Tech Stack:** Native iOS (Swift), UIKit, Map Kit, GPS, Google Maps, Geo Fencing 
-- **Platform:**  
-  - [iOS](https://apps.apple.com/pk/app/hobnob-go-mingle/id1597252971)
- 
-
----  
-
-## Flutter Package & Plugin Development
-- Authoring reusable Flutter packages
-- Native SDK wrapping (iOS & Android)
-- Platform Channels & custom plugins
-- Clean APIs, documentation & example apps
-
----  
-
-## Let’s Collaborate!
-I’m open to:
-- AI-powered mobile applications
-- Custom Flutter packages & plugins
-- LLM integrations (OpenAI, Gemini, Claude)
-- Scaling & optimizing existing apps
-
-Let’s **build intelligent mobile experiences together** 
----  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theibrarbashir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Theibrarbashir@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=plastic&logo=fastlane&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theibrarbashir&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=theibrarbashir&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theibrarbashir&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode" />
+&nbsp;
+![Fastlane](https://img.shields.io/badge/Fastlane-82BD4E?style=flat-square&logo=fastlane&logoColor=black)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F84B17?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=theibrarbashir&icon=0&color=0)](https://visitcount.itsvg.in)
 
----  
+## 🚀 Shipped Apps
 
-Thanks for stopping by! ⭐
+> Tap any badge to open the live app.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏡 EurekaJo
+**Real Estate · Jordan**
+
+Browse and discover properties for rent & sale across Jordan. Consistently one of the region's top-ranked property platforms.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white)
+![FCM](https://img.shields.io/badge/FCM-FF6D00?style=flat-square&logo=firebase&logoColor=white)
+
+📥 **100K+** Google Play &nbsp;·&nbsp; **80K+** App Store
+
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/jo/app/eurekajo-properties-in-jordan/id1617968807)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.eurekajo.mobile&hl=en&gl=US)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 The Dividend Tracker
+**Finance · Portfolio Management**
+
+Track dividend income, visualize portfolio growth, and connect bank accounts via Plaid for fully automated financial tracking.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Plaid](https://img.shields.io/badge/Plaid-000000?style=flat-square)
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+
+📥 **30K+** App Store &nbsp;·&nbsp; **10K+** Google Play
+
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/pk/app/the-dividend-tracker/id6443490767)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.thedividendtracker.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚕 Cabbie.today
+**Ride-Hailing · Cayman Islands**
+
+Full-stack ride-booking platform — built both the passenger and driver apps. Features real-time GPS tracking, in-app chat, and MQTT-powered live communication.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
+![Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white)
+
+[![Passenger App](https://img.shields.io/badge/Passenger_App-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/pk/app/cabbie-today/id6498719765)
+[![Driver App](https://img.shields.io/badge/Driver_App-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/pk/app/cabbie-today-driver/id6498791467)
+
+</td>
+<td width="50%" valign="top">
+
+### 📍 Hobnob – Go Mingle
+**Social · Native iOS (Swift)**
+
+Pure native Swift social app with real-time geo-fencing, location-based user discovery, and a fully UIKit-built interface — no cross-platform shortcuts.
+
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-0078D7?style=flat-square&logo=apple&logoColor=white)
+![MapKit](https://img.shields.io/badge/MapKit-000000?style=flat-square&logo=apple&logoColor=white)
+![GeoFencing](https://img.shields.io/badge/Geo_Fencing-34C759?style=flat-square)
+
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/pk/app/hobnob-go-mingle/id1597252971)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📋 8 more shipped apps</b></summary>
+
+<br/>
+
+| App | Category | Stack | Links |
+|-----|----------|-------|-------|
+| ⛵ **Yapp Sailing Course** | Education | Flutter · Firebase · In-App Purchases | [![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple)](https://apps.apple.com/pk/app/yapp-sailing-course/id1576346097) [![Android](https://img.shields.io/badge/Android-414141?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.yacht.yapp) |
+| 🛍️ **BeautyFully** | Shopping | Flutter · Firebase · Stripe | [![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple)](https://apps.apple.com/pk/app/beautyfully/id1672034258) |
+| 🚛 **Omniya Collection** | Logistics | Flutter · Firebase · Cloud Functions | [![Client](https://img.shields.io/badge/Client-000?style=flat-square&logo=apple)](https://apps.apple.com/pk/app/omniya-collection-system/id1673761983) [![Driver](https://img.shields.io/badge/Driver-414141?style=flat-square&logo=apple)](https://apps.apple.com/us/app/omniya-driver/id6462425687) |
+| 🏠 **Look4city** | Real Estate | Flutter · Firebase · Google Maps | [![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple)](https://apps.apple.com/pk/app/look4city/id1662134656) [![Android](https://img.shields.io/badge/Android-414141?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.look4city.app.look4city) |
+| 🩺 **Halo Beba** | Medical | Flutter · HTML/CSS | [![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple)](https://apps.apple.com/pk/app/halo-beba-o-dojenju/id6740992898) |
+| 🩹 **Flasterko** | Medical | Flutter · HTML/CSS | [![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple)](https://apps.apple.com/pk/app/flasterko/id6740990691) |
+| 🎓 **Trn** | Education | Flutter · Firebase · Geolocation | [![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple)](https://apps.apple.com/pk/app/trn-app/id6443707193) |
+| 🌍 **EurekaJo (Android)** | Real Estate | Flutter · Firebase | [![Android](https://img.shields.io/badge/Android-414141?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.eurekajo.mobile) |
+
+</details>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=theibrarbashir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=420" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theibrarbashir&theme=tokyonight&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=310" height="175"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=theibrarbashir&theme=tokyonight&hide_border=true&card_width=720" height="175"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theibrarbashir&bg_color=1a1b27&color=7C3AED&line=7C3AED&point=ffffff&area=true&area_color=7C3AED&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=theibrarbashir&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/><br/>
+
+**Open to Flutter, iOS & AI contracts — let's build something real.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theibrarbashir)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ibrar-bashir)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Theibrarbashir@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
