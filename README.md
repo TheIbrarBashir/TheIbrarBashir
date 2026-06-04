@@ -166,14 +166,6 @@ Pure native Swift social app with real-time geo-fencing, location-based user dis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=theibrarbashir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theibrarbashir&theme=tokyonight&hide_border=true&count_private=true&layout=compact&langs_count=8" height="175" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=theibrarbashir&theme=tokyonight&hide_border=true" height="175" alt="Streak Stats"/>
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theibrarbashir&bg_color=1a1b27&color=7C3AED&line=7C3AED&point=ffffff&area=true&area_color=7C3AED&hide_border=true" width="100%" alt="Activity Graph"/>
