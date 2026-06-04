@@ -46,14 +46,7 @@ I build **Flutter, iOS, and Android** apps that ship to hundreds of thousands of
 
 <br/>
 
-<img src="https://img.shields.io/badge/Core_ML-000000?style=flat-square&logo=apple&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" height="25"/>
+<p><img src="https://img.shields.io/badge/Core_ML-000000?style=flat-square&logo=apple&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square" height="25"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" height="25"/></p>
 
 <br/><br/>
 
@@ -69,10 +62,7 @@ I build **Flutter, iOS, and Android** apps that ship to hundreds of thousands of
 
 <br/>
 
-<img src="https://img.shields.io/badge/Fastlane-82BD4E?style=flat-square&logo=fastlane&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/RevenueCat-F84B17?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white" height="25"/>
+<p><img src="https://img.shields.io/badge/Fastlane-82BD4E?style=flat-square&logo=fastlane&logoColor=black" height="25"/> <img src="https://img.shields.io/badge/RevenueCat-F84B17?style=flat-square" height="25"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white" height="25"/></p>
 
 ---
 
@@ -194,21 +184,5 @@ Pure native Swift social app with real-time geo-fencing, location-based user dis
 ---
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=theibrarbashir&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/><br/>
-
-**Open to Flutter, iOS & AI contracts — let's build something real.**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrar-bashir/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ibrarbashir)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Theibrarbashir@gmail.com)
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
 </div>
