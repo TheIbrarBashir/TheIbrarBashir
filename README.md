@@ -24,10 +24,9 @@
 
 I build **Flutter, iOS, and Android** apps that ship to hundreds of thousands of users — clean architecture, production-grade, App Store ready. On the AI side, I integrate **LLMs (OpenAI · Gemini · Claude)**, run **on-device inference** with Core ML and TFLite, and bring ML from research into real mobile products.
 
-- 📦 Author of custom **Flutter packages & plugins** with native iOS/Android bridges
-- 🎓 Lecturer @ **Islamia University of Bahawalpur** — Machine Learning & Dart
-- 🔬 AI research: Urdu sign language recognition · BSN/WBAN anomaly detection
-- 🌍 Independent contractor serving clients across Europe, the Middle East & the Americas
+- Author of custom **Flutter packages & plugins** with native iOS/Android bridges
+- AI Engineer: **Numpy, Panda, Pytorch, Keras, Scikit-learn**
+- Independent contractor serving clients across Europe, the Middle East & the Americas
 
 ---
 
